@@ -1,6 +1,7 @@
 ## Application : Cleanup
-Application de création de taches avec persistence des données
+![alt text](https://github.com/Redfact/P5CleanUp/blob/master/images/1.png)
 
+Application de création de taches avec persistence des données
 
 ## Caractéristiques du projet
 
