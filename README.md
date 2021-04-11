@@ -1,5 +1,5 @@
 ## Application : Cleanup
-![alt text](https://github.com/Redfact/P5CleanUp/blob/master/images/1.png)
+![alt text](https://github.com/Redfact/P5CleanUp/blob/master/1.png)
 
 Application de création de taches avec persistence des données
 
